@@ -25,7 +25,7 @@ Here are some projects I've worked on:
 - [**Portfolio Project 3**](https://github.com/najmie14/project3) - Automating workflows with Office 365.
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/najmie14)
+- [LinkedIn](https://linkedin.com/in/najmie)
 - [Personal Website](https://najmie14.github.io/welcometomywebsite.github.io/)
 - [Email](mailto:najmie1400@gmail.com)
 
