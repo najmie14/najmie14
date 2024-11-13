@@ -14,19 +14,19 @@ Welcome to my GitHub profile! I'm a technology enthusiast with a passion for lea
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=najmie14&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmie14&layout=compact&theme=radical)
 
 ## 🎯 Portfolio Projects
 Here are some projects I've worked on:
 
-- [**Portfolio Project 1**](https://github.com/yourusername/project1) - A project showcasing my skills in Docker and Linux.
-- [**Portfolio Project 2**](https://github.com/yourusername/project2) - Analysis project focusing on data organization.
-- [**Portfolio Project 3**](https://github.com/yourusername/project3) - Automating workflows with Office 365.
+- [**Portfolio Project 1**](https://github.com/najmie14/project1) - A project showcasing my skills in Docker and Linux.
+- [**Portfolio Project 2**](https://github.com/najmie14/project2) - Analysis project focusing on data organization.
+- [**Portfolio Project 3**](https://github.com/najmie14/project3) - Automating workflows with Office 365.
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/najmie14)
+- [Personal Website](https://najmie14.github.io/welcometomywebsite.github.io/)
+- [Email](mailto:najmie1400@gmail.com)
 
 Thanks for stopping by! 😊
