@@ -27,6 +27,6 @@ Here are some projects I've worked on:
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/najmie)
 - [Personal Website](https://najmie14.github.io/welcometomywebsite.github.io/)
-- [Email](mailto:najmie1400@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=najmie1400@gmail.com)
 
 Thanks for stopping by! 😊
