@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Najmie]! 👋
 
 Welcome to my GitHub profile! I'm a technology enthusiast with a passion for learning new things and working on innovative projects. Here’s a bit about me and my work:
 
