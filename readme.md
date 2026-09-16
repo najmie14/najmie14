@@ -45,5 +45,6 @@ Here are some projects that highlight my skills:
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/najmie)
+- [Personal Website](https://najmie14.github.io/welcometomywebsite.github.io/)
 - [GitHub](https://github.com/najmie14/)
 - [Email](mailto:najmie1400@gmail.com)
