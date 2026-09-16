@@ -1,4 +1,4 @@
-# Hi there, I's Najmie, S.Kom. 👋
+# Hi there, I'm Najmie, S.Kom. 👋
 
 Welcome to my GitHub profile! I’m a Bachelor of Computer Science graduate in Business Intelligence with extensive experience in logistics monitoring and administrative operations. Here’s a bit more about me:
 
